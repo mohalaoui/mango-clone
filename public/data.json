@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "image": "https://staticpages.mngbcn.com/homes/images/ss20/mm/julio/newnow_she_julio_1_1.jpg",
+    "name": "Combinaison",
+    "price": 79.99
+  },
+  {
+    "id": "2",
+    "image": "https://staticpages.mngbcn.com/homes/images/ss20/mm/julio/newnow_she_julio_1_2.jpg",
+    "name": "Blouse",
+    "price": 49.99
+  },
+  {
+    "id": "3",
+    "image": "https://staticpages.mngbcn.com/homes/images/ss20/mm/julio/newnow_she_julio_1_3.jpg",
+    "name": "Collier",
+    "price": 15.99
+  },
+  {
+    "id": "4",
+    "image": "https://staticpages.mngbcn.com/homes/images/ss20/mm/julio/newnow_she_julio_1_4.jpg",
+    "name": "Robe",
+    "price": 79.99
+  },
+  {
+    "id": "5",
+    "image": "https://staticpages.mngbcn.com/homes/images/ss20/mm/julio/newnow_she_julio_1_5.jpg",
+    "name": "Pantalon",
+    "price": 22.99
+  },
+  {
+    "id": "6",
+    "image": "https://staticpages.mngbcn.com/homes/images/ss20/mm/julio/newnow_she_julio_1_6.jpg",
+    "name": "Jeans",
+    "price": 29.99
+  }
+]

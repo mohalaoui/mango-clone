@@ -1,0 +1,27 @@
+.home__arrows {
+  display: flex;
+}
+
+.home__arrowLeft {
+  background: url(https://staticpages.mngbcn.com/homes/images/fw19/mm/agosto/flechaAsset-1.svg);
+  background-position: center center;
+  width: 50px;
+  height: 20px;
+  background-repeat: no-repeat;
+  transform: rotate(180deg);
+  opacity: 0.2;
+}
+
+.home__arrowRight {
+  background: url(https://staticpages.mngbcn.com/homes/images/fw19/mm/agosto/flechaAsset-1.svg);
+  background-position: center center;
+  width: 50px;
+  height: 20px;
+  background-repeat: no-repeat;
+  margin-left: 20px;
+  opacity: 0.2;
+}
+
+.home__arrow--actif {
+  opacity: 1 !important;
+}

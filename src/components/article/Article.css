@@ -1,0 +1,32 @@
+.article {
+  width: 342px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-right: 11px;
+}
+
+.article__image {
+  object-fit: contain;
+  height: 455px;
+  transition: transform 2s;
+}
+
+.article__image:hover {
+  transform: scale(1.02);
+}
+
+.home__info {
+  display: flex;
+  justify-content: space-between;
+}
+
+.home__info > p {
+  margin-left: 5px;
+  margin-top: 10px;
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.article__favoris {
+  margin-top: 5px;
+}
